@@ -1,0 +1,9 @@
+ls
+ls > /tmp/ls-out
+notACommand
+  
+cd ..
+pwd
+
+
+
